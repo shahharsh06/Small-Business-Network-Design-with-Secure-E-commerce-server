@@ -1,2 +1,3 @@
 # Small-Business-Network-Design-with-Secure-E-commerce-server
-A network has to be designed for a small business organization which has 100 users. The organization hosts an e-commerce application on a server which is accessible to internet users using https and with a public IP address.
+This is my first experience to develop Computer Network Design in Cisco Packet Tracer. As we all are aware that small e-commerce business is facing challenges of malcious activities online, here I tried to resolve issue by giving securuties features to prevent malcious activities on site. 
+The program is designed for a small business organisation i.e 5 users which was accessible to internet users using https and with a public IP address. 
