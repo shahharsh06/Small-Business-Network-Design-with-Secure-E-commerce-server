@@ -1,3 +1,3 @@
 # Small-Business-Network-Design-with-Secure-E-commerce-server
 This is my first experience to develop Computer Network Design in Cisco Packet Tracer. As we all are aware that small e-commerce business is facing challenges of malicious activities online. Here I tried to resolve issue by giving securities features to prevent malicious activities on site. 
-The program is designed for a small business organization i.e. 5 users which is accessible by internet users with securities features i.e https, public IP address & Firewall. In this project, the private IP address is translated into public IP address by NAT and NAC.
+The program is designed for a small business organization i.e. 5 users which is accessible by internet users with securities features i.e. https, public IP address & Firewall. In this project, the private IP address is translated into public IP address by NAT and NAC.
